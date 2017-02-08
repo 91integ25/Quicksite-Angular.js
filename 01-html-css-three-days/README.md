@@ -10,7 +10,11 @@ In this week, we will be welcoming our students to their first week of our Full-
 
 ### Homework Activities
 * [Build Your Portfolio Page (Recommended Homework)](2-Homework/Instructions/recommended-homework-assignment.md)
-<!-- * [Build A Wireframe Layout (Easier Homework)](2-Homework/Instructions/easier-homework-assignment.md) -->
+* [Build A Wireframe Layout (Easier Homework)](2-Homework/Instructions/easier-homework-assignment.md)
+
+### Homework Solutions
+* [Build Your Portfolio Page (Recommended Homework)](2-Homework/Solutions/recommended-homework-solution)
+* [Build A Wireframe Layout (Easier Homework)](2-Homework/Solutions/easier-homework-solution)
 
 ### Key Activities
 * [MyFirstHTML](1-Class-Content/1.1/Activities/3-MyFirstHTML)
